@@ -1,4 +1,4 @@
-## Carlos Martínez. Modified from the example for Assignment 2. Coursera.
+## Carlos Martínez. Feb 2015. Modified from the example for Assignment 2. Coursera.
 
 ## The functions below allow to calculate the inverse of a given matrix and
 ##   to store the calculated inverted matrix in cache for further ru-use insofar
